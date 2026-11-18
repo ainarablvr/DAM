@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\bin\Debug\net10.0-windows\EjemploDock.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\bin\Debug\net10.0-windows\EjemploDock.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\bin\Debug\net10.0-windows\EjemploDock.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\bin\Debug\net10.0-windows\EjemploDock.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\bin\Debug\net10.0-windows\EjemploDock.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\refint\EjemploDock.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploDock.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\ref\EjemploDock.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\EjemploDock\obj\Debug\net10.0-windows\EjemploD.F006E9FE.Up2Date

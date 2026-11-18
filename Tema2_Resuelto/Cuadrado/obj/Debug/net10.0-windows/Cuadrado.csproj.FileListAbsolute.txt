@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\bin\Debug\net10.0-windows\Cuadrado.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\bin\Debug\net10.0-windows\Cuadrado.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\bin\Debug\net10.0-windows\Cuadrado.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\bin\Debug\net10.0-windows\Cuadrado.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\bin\Debug\net10.0-windows\Cuadrado.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\refint\Cuadrado.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\ref\Cuadrado.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Cuadrado\obj\Debug\net10.0-windows\Cuadrado.csproj.Up2Date

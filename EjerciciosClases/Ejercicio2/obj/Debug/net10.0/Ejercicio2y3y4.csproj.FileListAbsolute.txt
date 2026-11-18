@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4.exe
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4.deps.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4.runtimeconfig.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\refint\Ejercicio2y3y4.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\ref\Ejercicio2y3y4.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercici.1DE7BBB4.Up2Date

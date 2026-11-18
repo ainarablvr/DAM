@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\bin\Debug\net10.0\ExamenAlmacen-AinaraBelver.exe
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\bin\Debug\net10.0\ExamenAlmacen-AinaraBelver.deps.json
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\bin\Debug\net10.0\ExamenAlmacen-AinaraBelver.runtimeconfig.json
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\bin\Debug\net10.0\ExamenAlmacen-AinaraBelver.dll
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\bin\Debug\net10.0\ExamenAlmacen-AinaraBelver.pdb
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.dll
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\refint\ExamenAlmacen-AinaraBelver.dll
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.pdb
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAlmacen-AinaraBelver.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ref\ExamenAlmacen-AinaraBelver.dll
+C:\Users\Ainara\source\repos\ExamenAlmacen-AinaraBelver\ExamenAlmacen-AinaraBelver\obj\Debug\net10.0\ExamenAl.61E30ED4.Up2Date

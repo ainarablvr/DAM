@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\bin\Debug\net10.0\SalaDeEstudios2.exe
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\bin\Debug\net10.0\SalaDeEstudios2.deps.json
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\bin\Debug\net10.0\SalaDeEstudios2.runtimeconfig.json
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\bin\Debug\net10.0\SalaDeEstudios2.dll
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\bin\Debug\net10.0\SalaDeEstudios2.pdb
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.dll
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\refint\SalaDeEstudios2.dll
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.pdb
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEstudios2.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\ref\SalaDeEstudios2.dll
+C:\Users\Ainara\source\repos\SalaDeEstudios2\SalaDeEstudios2\obj\Debug\net10.0\SalaDeEs.80E8B599.Up2Date

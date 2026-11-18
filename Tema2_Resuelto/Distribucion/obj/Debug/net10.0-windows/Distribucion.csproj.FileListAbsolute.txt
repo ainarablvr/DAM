@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\bin\Debug\net10.0-windows\Distribucion.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\bin\Debug\net10.0-windows\Distribucion.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\bin\Debug\net10.0-windows\Distribucion.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\bin\Debug\net10.0-windows\Distribucion.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\bin\Debug\net10.0-windows\Distribucion.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\refint\Distribucion.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribucion.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\ref\Distribucion.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\Distribucion\obj\Debug\net10.0-windows\Distribu.55415C6A.Up2Date

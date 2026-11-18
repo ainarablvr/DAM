@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\bin\Debug\net10.0-windows\ListasCiudades.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\bin\Debug\net10.0-windows\ListasCiudades.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\bin\Debug\net10.0-windows\ListasCiudades.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\bin\Debug\net10.0-windows\ListasCiudades.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\bin\Debug\net10.0-windows\ListasCiudades.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\refint\ListasCiudades.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCiudades.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ref\ListasCiudades.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListasCiudades\obj\Debug\net10.0-windows\ListasCi.5AD465FD.Up2Date

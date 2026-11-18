@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="VentanaPrueba/VentanaPrueba.csproj" />
+  <Project Path="PrimerosPasos/PrimerosPasos.csproj" />
+  <Project Path="ControlesBasicos/ControlesBasicos.csproj" />
+  <Project Path="OpcionesVentana/OpcionesVentana.csproj" />
+  <Project Path="ListasCiudades/ListasCiudades.csproj" />
+  <Project Path="ListaCoches/ListaCoches.csproj" />
+  <Project Path="ImagenesEventos/ImagenesEventos.csproj" />
+  <Project Path="Distribucion/Distribucion.csproj" />
+  <Project Path="EjemploDock/EjemploDock.csproj" />
+  <Project Path="Ventanas/Ventanas.csproj" />
+  <Project Path="Cuadrado/Cuadrado.csproj" />
+</Solution>

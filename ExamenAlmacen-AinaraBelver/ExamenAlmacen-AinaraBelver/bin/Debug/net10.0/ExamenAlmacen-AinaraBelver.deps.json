@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExamenAlmacen-AinaraBelver/1.0.0": {
+        "runtime": {
+          "ExamenAlmacen-AinaraBelver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenAlmacen-AinaraBelver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

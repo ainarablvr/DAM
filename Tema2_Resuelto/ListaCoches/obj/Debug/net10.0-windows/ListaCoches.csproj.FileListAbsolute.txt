@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\bin\Debug\net10.0-windows\ListaCoches.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\bin\Debug\net10.0-windows\ListaCoches.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\bin\Debug\net10.0-windows\ListaCoches.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\bin\Debug\net10.0-windows\ListaCoches.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\bin\Debug\net10.0-windows\ListaCoches.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\refint\ListaCoches.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoches.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ref\ListaCoches.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ListaCoches\obj\Debug\net10.0-windows\ListaCoc.9643BB74.Up2Date

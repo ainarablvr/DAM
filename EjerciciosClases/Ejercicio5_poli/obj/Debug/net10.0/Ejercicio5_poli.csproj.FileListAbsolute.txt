@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\bin\Debug\net10.0\Ejercicio5_poli.exe
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\bin\Debug\net10.0\Ejercicio5_poli.deps.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\bin\Debug\net10.0\Ejercicio5_poli.runtimeconfig.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\bin\Debug\net10.0\Ejercicio5_poli.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\bin\Debug\net10.0\Ejercicio5_poli.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\refint\Ejercicio5_poli.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercicio5_poli.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\ref\Ejercicio5_poli.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio5_poli\obj\Debug\net10.0\Ejercici.9E8D8402.Up2Date

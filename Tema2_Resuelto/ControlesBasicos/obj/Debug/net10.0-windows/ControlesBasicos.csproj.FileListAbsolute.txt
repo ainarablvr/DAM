@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\bin\Debug\net10.0-windows\ControlesBasicos.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\bin\Debug\net10.0-windows\ControlesBasicos.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\bin\Debug\net10.0-windows\ControlesBasicos.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\bin\Debug\net10.0-windows\ControlesBasicos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\bin\Debug\net10.0-windows\ControlesBasicos.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\refint\ControlesBasicos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ControlesBasicos.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\ref\ControlesBasicos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ControlesBasicos\obj\Debug\net10.0-windows\Controle.EA618F6C.Up2Date

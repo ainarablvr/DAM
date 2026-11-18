@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\bin\Debug\net10.0\Clases.exe
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\bin\Debug\net10.0\Clases.deps.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\bin\Debug\net10.0\Clases.runtimeconfig.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\bin\Debug\net10.0\Clases.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\bin\Debug\net10.0\Clases.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\refint\Clases.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\ref\Clases.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Clases\obj\Debug\net10.0\Clases.csproj.Up2Date

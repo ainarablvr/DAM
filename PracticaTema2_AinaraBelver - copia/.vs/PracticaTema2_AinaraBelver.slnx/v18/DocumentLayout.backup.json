@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\registrar_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\registrar_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\registrar_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\registrar_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\practicatema2_ainarabelver\\registrar_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\registrar_alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\practicatema2_ainarabelver\\registrar_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\registrar_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\registrar_alumno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\registrar_alumno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|c:\\users\\ainara\\source\\repos\\practicatema2_ainarabelver\\practicatema2_ainarabelver\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC987880-828A-8963-4D2B-1C63189C0FDF}|PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver.csproj|solutionrelative:practicatema2_ainarabelver\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrar_Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:12:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Form1.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:10:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrar_Libro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Registrar_Libro.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Libro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Registrar_Libro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:12:46.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrar_Alumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Registrar_Alumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T09:06:01.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrar_Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Registrar_Alumno.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:58:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:32:51.305Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registrar_Alumno.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.Designer.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Registrar_Alumno.Designer.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Registrar_Alumno.Designer.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Registrar_Alumno.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:18:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Libro.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Libro.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Libro.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Libro.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:52:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Alumno.cs",
+              "RelativeDocumentMoniker": "PracticaTema2_AinaraBelver\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\PracticaTema2_AinaraBelver\\PracticaTema2_AinaraBelver\\Alumno.cs",
+              "RelativeToolTip": "PracticaTema2_AinaraBelver\\Alumno.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T09:27:24.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

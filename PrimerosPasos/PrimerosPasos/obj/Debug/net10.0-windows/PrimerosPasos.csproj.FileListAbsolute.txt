@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\bin\Debug\net10.0-windows\PrimerosPasos.exe
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\bin\Debug\net10.0-windows\PrimerosPasos.deps.json
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\bin\Debug\net10.0-windows\PrimerosPasos.runtimeconfig.json
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\bin\Debug\net10.0-windows\PrimerosPasos.dll
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\bin\Debug\net10.0-windows\PrimerosPasos.pdb
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.Form1.resources
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.dll
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\refint\PrimerosPasos.dll
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.pdb
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\PrimerosPasos.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\ref\PrimerosPasos.dll
+C:\Users\Ainara\source\repos\PrimerosPasos\PrimerosPasos\obj\Debug\net10.0-windows\Primeros.55860CD7.Up2Date

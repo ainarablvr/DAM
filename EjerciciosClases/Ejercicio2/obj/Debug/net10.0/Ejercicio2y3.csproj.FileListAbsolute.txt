@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3.exe
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3.deps.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3.runtimeconfig.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\refint\Ejercicio2y3.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\ref\Ejercicio2y3.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercici.00ECB5DC.Up2Date

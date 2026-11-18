@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\bin\Debug\net10.0-windows\OpcionesVentana.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\bin\Debug\net10.0-windows\OpcionesVentana.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\bin\Debug\net10.0-windows\OpcionesVentana.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\bin\Debug\net10.0-windows\OpcionesVentana.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\bin\Debug\net10.0-windows\OpcionesVentana.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\refint\OpcionesVentana.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\OpcionesVentana.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\ref\OpcionesVentana.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\OpcionesVentana\obj\Debug\net10.0-windows\Opciones.8B1A20C9.Up2Date

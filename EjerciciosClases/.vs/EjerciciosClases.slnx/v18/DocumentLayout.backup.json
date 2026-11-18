@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio5_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|solutionrelative:ejercicio5_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio5_poli\\informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|solutionrelative:ejercicio5_poli\\informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio5_poli\\imprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|solutionrelative:ejercicio5_poli\\imprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio5_poli\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCF77FF-1F64-4F84-96F0-F942D46C6F67}|Ejercicio5_poli\\Ejercicio5_poli.csproj|solutionrelative:ejercicio5_poli\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio4_poli\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|solutionrelative:ejercicio4_poli\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio4_poli\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|solutionrelative:ejercicio4_poli\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio4_poli\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|solutionrelative:ejercicio4_poli\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio4_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37DE24-7B99-4656-84C6-8FD67662B980}|Ejercicio4_poli\\Ejercicio4_poli.csproj|solutionrelative:ejercicio4_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio1_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|solutionrelative:ejercicio1_poli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio1_poli\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|solutionrelative:ejercicio1_poli\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio1_poli\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E28FCB-5F4C-4BE7-8356-554959AE029C}|Ejercicio1_Poli\\Ejercicio1_Poli.csproj|solutionrelative:ejercicio1_poli\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFFCEDD-8C5E-4397-B078-0418862C73C8}|Ejercicio2\\Ejercicio2y3y4y5.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFFCEDD-8C5E-4397-B078-0418862C73C8}|Ejercicio2\\Ejercicio2y3y4y5.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB603555-F153-44F4-AB61-C2BED90C7DE6}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB603555-F153-44F4-AB61-C2BED90C7DE6}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\clases\\producto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|solutionrelative:clases\\producto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\clases\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|solutionrelative:clases\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BAFCB6-D487-3AD5-7C3A-ED17BB648080}|Clases\\Clases.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFFCEDD-8C5E-4397-B078-0418862C73C8}|Ejercicio2\\Ejercicio2y3y4y5.csproj|c:\\users\\ainara\\source\\repos\\ejerciciosclases\\ejercicio2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFFCEDD-8C5E-4397-B078-0418862C73C8}|Ejercicio2\\Ejercicio2y3y4y5.csproj|solutionrelative:ejercicio2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Informe.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Informe.cs",
+              "RelativeDocumentMoniker": "Ejercicio5_poli\\Informe.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Informe.cs",
+              "RelativeToolTip": "Ejercicio5_poli\\Informe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:11:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Factura.cs",
+              "RelativeDocumentMoniker": "Ejercicio5_poli\\Factura.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Factura.cs",
+              "RelativeToolTip": "Ejercicio5_poli\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:11:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imprimible.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Imprimible.cs",
+              "RelativeDocumentMoniker": "Ejercicio5_poli\\Imprimible.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Imprimible.cs",
+              "RelativeToolTip": "Ejercicio5_poli\\Imprimible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:10:46.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5_poli\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio5_poli\\Program.cs",
+              "RelativeToolTip": "Ejercicio5_poli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:10:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Circulo.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_poli\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Circulo.cs",
+              "RelativeToolTip": "Ejercicio4_poli\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:08:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_poli\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Rectangulo.cs",
+              "RelativeToolTip": "Ejercicio4_poli\\Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:07:21.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Figura.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_poli\\Figura.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Figura.cs",
+              "RelativeToolTip": "Ejercicio4_poli\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:05:58.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_poli\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio4_poli\\Program.cs",
+              "RelativeToolTip": "Ejercicio4_poli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:05:33.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Alumno.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Poli\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Alumno.cs",
+              "RelativeToolTip": "Ejercicio1_Poli\\Alumno.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:41:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Poli\\Persona.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Persona.cs",
+              "RelativeToolTip": "Ejercicio1_Poli\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:40:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Poli\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1_Poli\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_Poli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:39:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio2\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio2\\Producto.cs",
+              "RelativeToolTip": "Ejercicio2\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:54:48.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:54:09.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:47:58.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Persona\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona\\Persona.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Persona\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:31:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Producto\\Producto.cs",
+              "RelativeDocumentMoniker": "Clases\\Producto\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Producto\\Producto.cs",
+              "RelativeToolTip": "Clases\\Producto\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:24:19.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\Ainara\\source\\repos\\EjerciciosClases\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:07:05.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4y5.exe
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4y5.deps.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4y5.runtimeconfig.json
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4y5.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\bin\Debug\net10.0\Ejercicio2y3y4y5.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\refint\Ejercicio2y3y4y5.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.pdb
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercicio2y3y4y5.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\ref\Ejercicio2y3y4y5.dll
+C:\Users\Ainara\source\repos\EjerciciosClases\Ejercicio2\obj\Debug\net10.0\Ejercici.A9B1B073.Up2Date

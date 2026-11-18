@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Clases/Clases.csproj" />
+  <Project Path="Ejercicio1/Ejercicio1.csproj" Id="cb603555-f153-44f4-ab61-c2bed90c7de6" />
+  <Project Path="Ejercicio1_Poli/Ejercicio1_Poli.csproj" Id="77e28fcb-5f4c-4be7-8356-554959ae029c" />
+  <Project Path="Ejercicio2/Ejercicio2y3y4y5.csproj" Id="0affcedd-8c5e-4397-b078-0418862c73c8" />
+  <Project Path="Ejercicio4_poli/Ejercicio4_poli.csproj" Id="9b37de24-7b99-4656-84c6-8fd67662b980" />
+  <Project Path="Ejercicio5_poli/Ejercicio5_poli.csproj" Id="9dcf77ff-1f64-4f84-96f0-f942d46c6f67" />
+</Solution>

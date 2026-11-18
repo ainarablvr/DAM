@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\bin\Debug\net10.0-windows\ImagenesEventos.exe
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\bin\Debug\net10.0-windows\ImagenesEventos.deps.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\bin\Debug\net10.0-windows\ImagenesEventos.runtimeconfig.json
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\bin\Debug\net10.0-windows\ImagenesEventos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\bin\Debug\net10.0-windows\ImagenesEventos.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.Form1.resources
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\refint\ImagenesEventos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.pdb
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ImagenesEventos.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\ref\ImagenesEventos.dll
+C:\Users\Ainara\source\repos\Tema2_Resuelto\ImagenesEventos\obj\Debug\net10.0-windows\Imagenes.0B316A79.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\bin\Debug\net10.0-windows\Ejercicios1.exe
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\bin\Debug\net10.0-windows\Ejercicios1.deps.json
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\bin\Debug\net10.0-windows\Ejercicios1.runtimeconfig.json
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\bin\Debug\net10.0-windows\Ejercicios1.dll
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\bin\Debug\net10.0-windows\Ejercicios1.pdb
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.Form1.resources
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.csproj.GenerateResource.cache
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.AssemblyInfoInputs.cache
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.AssemblyInfo.cs
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.dll
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\refint\Ejercicios1.dll
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.pdb
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercicios1.genruntimeconfig.cache
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\ref\Ejercicios1.dll
+C:\Users\Ainara\source\repos\Ejercicios1\Ejercicios1\obj\Debug\net10.0-windows\Ejercici.861412B0.Up2Date
